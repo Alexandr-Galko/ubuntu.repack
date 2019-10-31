@@ -1,0 +1,5 @@
+VERSION=18.04-desktop-amd64		# Ubuntu LiveCD version
+ISODIR=./				# Path to original ISO
+LIVEDIR=./live			# Directory for building
+
+PACKAGES="mc htop testdisk chntpw"	# Packages that have to be installed
